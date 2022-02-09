@@ -10,5 +10,8 @@
             For the delete employee, the user can delete their own information.
 # Exit  
             For the exit, the user can also exit in the system.
-            
-#            
+
+# Recuirment Work 
+   
+![Recruitment_Work](https://user-images.githubusercontent.com/79264869/153262074-0e233681-88bc-4a6e-a3ae-717045ff04bb.png)
+ 
