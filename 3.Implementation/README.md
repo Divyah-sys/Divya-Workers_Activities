@@ -7,3 +7,7 @@
         To implement is defined as to put something into effect. An example of implement is a manager enforcing a new set of procedures. The definition of implement is a tool that is used to perform a job. A plow is an example of a farm implement.
         One category of leadership skills is Leading Implementation, and it includes the following leadership skills: Coaching and Mentoring, Customer Focus, Delegation, Effectiveness, Monitoring Performance, Planning and Organizing, and Thoroughness.
 
+* # Gantt chart
+![Gantt chart](https://user-images.githubusercontent.com/79264869/153268386-734804da-9db8-4baa-bd88-f73fdf0a733f.png)
+
+
