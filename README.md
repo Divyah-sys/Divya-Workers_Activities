@@ -10,7 +10,7 @@
 
 
 # CODACY BATCH
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/93521dbe14d34dc392ff76daa5b31d44)](https://www.codacy.com/gh/Divyah-sys/Divya-workers_Activities/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Divyah-sys/Divya-workers_Activities&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/93521dbe14d34dc392ff76daa5b31d44)](https://www.codacy.com/gh/Divyah-sys/Divya-Workers_Activities/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Divyah-sys/Divya-Workers_Activities&amp;utm_campaign=Badge_Grade)
 
 
 # BADGE
