@@ -15,3 +15,9 @@
 
 # BADGE
 https://app.codiga.io/project/31096/dashboard
+
+### REFRENCES:
+https://www.slideteam.net/powerpoint/Work-Activities
+
+
+https://slideplayer.com/slide/16857047/
