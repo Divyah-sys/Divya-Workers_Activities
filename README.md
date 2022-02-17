@@ -10,3 +10,7 @@
 
 
 # CODACY BATCH
+
+
+# BADGE
+https://app.codiga.io/project/31096/dashboard
