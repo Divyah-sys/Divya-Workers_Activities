@@ -6,4 +6,4 @@ Build : project_main.c workers.c test_workers.c unity.c
 Run : workers.out
         ./workers.out
 Clean :
-      rm -rf * .o *.out *.i *.s
+ 	 rm -rf * .o *.out *.i *.s
