@@ -1,9 +1,9 @@
 #target : Dependencies
-#<TAB>Commands
+#<TAB>commands
 
-Build : project_main.c workersActivities.c test_workersActivities.c unity.c
-        gcc project_main.c workersActivities.c test_workersActivities.c unity.c -o workersActivities.out
-Run : workersActivities.out
-        ./workersActivities.out
-Clean :
- 	 rm -rf * .o *.out *.i *.s
+Build : project_main.c workersActivities.c 
+        gcc project_main.c WorkersActivities.c WorkersActivities.out
+Run : WorkersActivities.out
+	   ./WorkersActivities.out
+Clean : 
+		rm -rf * .o *.out *.i *.s
