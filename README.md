@@ -1,7 +1,5 @@
 # Divya-Workers_Activities
 * Repository to teach C Programming as per Industry Standards
-
-## Milestone -1
 * Folder Structure
 * Idea
 * Requirements
