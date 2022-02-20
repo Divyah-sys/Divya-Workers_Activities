@@ -24,7 +24,7 @@
 
 
 # BADGE
-https://app.codiga.io/project/31096/dashboard
+https://app.codiga.io/home
 
 ### REFRENCES:
 https://www.slideteam.net/powerpoint/Work-Activities
