@@ -15,7 +15,7 @@
 ## CPPcheck
 [![cppcheck-action](https://github.com/Divyah-sys/M1_WorkersActivities_UTIL/actions/workflows/cpp.yml/badge.svg)](https://github.com/Divyah-sys/M1_WorkersActivities_UTIL/actions/workflows/cpp.yml)
 
-## Valgrind
+## Codequality
 [![Valgrind](https://github.com/Divyah-sys/M1_WorkersActivities_UTIL/actions/workflows/codequality.yml/badge.svg)](https://github.com/Divyah-sys/M1_WorkersActivities_UTIL/actions/workflows/codequality.yml)
 
 
