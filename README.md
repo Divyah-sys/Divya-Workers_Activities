@@ -5,6 +5,12 @@
 * Requirements
 * Design
 * Test Plan
+# BADGES
+## Build
+[![CI](https://github.com/Divyah-sys/M1_WorkersActivities_UTIL/actions/workflows/build.yml/badge.svg)](https://github.com/Divyah-sys/M1_WorkersActivities_UTIL/actions/workflows/build.yml)
+
+## Git Inspector
+
 
 
 # CODACY BADGE
