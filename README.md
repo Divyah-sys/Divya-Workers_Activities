@@ -29,5 +29,4 @@ https://app.codiga.io/home
 ### REFRENCES:
 https://www.slideteam.net/powerpoint/Work-Activities
 
-
-https://slideplayer.com/slide/16857047/
+https://www.codewithc.com/mini-project-in-c-employee-record-system/#google_vignette
