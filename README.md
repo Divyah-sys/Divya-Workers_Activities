@@ -10,7 +10,7 @@
 [![CI](https://github.com/Divyah-sys/M1_WorkersActivities_UTIL/actions/workflows/build.yml/badge.svg)](https://github.com/Divyah-sys/M1_WorkersActivities_UTIL/actions/workflows/build.yml)
 
 ## Git Inspector
-
+[![Git Inspector](https://github.com/Divyah-sys/M1_WorkersActivities_UTIL/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Divyah-sys/M1_WorkersActivities_UTIL/actions/workflows/gitinspector.yml)
 
 
 # CODACY BADGE
