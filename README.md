@@ -12,6 +12,9 @@
 ## Git Inspector
 [![Git Inspector](https://github.com/Divyah-sys/M1_WorkersActivities_UTIL/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Divyah-sys/M1_WorkersActivities_UTIL/actions/workflows/gitinspector.yml)
 
+## CPPcheck
+[![cppcheck-action](https://github.com/Divyah-sys/M1_WorkersActivities_UTIL/actions/workflows/cpp.yml/badge.svg)](https://github.com/Divyah-sys/M1_WorkersActivities_UTIL/actions/workflows/cpp.yml)
+
 
 # CODACY BADGE
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/93521dbe14d34dc392ff76daa5b31d44)](https://www.codacy.com/gh/Divyah-sys/M1_WorkersActivities_UTIL/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Divyah-sys/M1_WorkersActivities_UTIL&amp;utm_campaign=Badge_Grade)
