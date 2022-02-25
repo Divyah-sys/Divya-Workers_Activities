@@ -26,6 +26,24 @@
 # BADGE
 https://app.codiga.io/home
 
+## Folder Structure
+Folder             | Description
+-------------------| -----------------------------------------
+`1_Requirements`   | Documents detailing requirements and research
+`2_Architecture`   | Documents specifying design details
+`3_Implementation` | All code and documentation
+`4_Test_plan`      | Documents with test plans and procedures
+`5_Images`         | Screen-shots of the working code
+##  Features
+| Feature Id | Feature |
+| -----------|---------|
+|F_01| Insert ID    | |
+|F_02| All Details |
+|F_03| Find Records |
+|F_04| Display PS num |
+|F_05| View All Transactions |
+|F_06| Check the worker's Detail |
+
 ### REFRENCES:
 https://www.slideteam.net/powerpoint/Work-Activities
 
