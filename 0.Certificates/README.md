@@ -7,3 +7,5 @@
 # Hacker Earth Certificate
 ![Hacker Earth](https://user-images.githubusercontent.com/79264869/154803982-02118ae2-6161-4daa-ab72-d3d5fbe14d4b.png)
 
+# Github Certificate
+![Github](https://user-images.githubusercontent.com/79264869/155771292-f99f8386-b0b9-4e76-abbd-dce11f315a03.png)
