@@ -6,6 +6,12 @@
 * Design
 * Test Plan
 # BADGES
+## Codequality Score
+  ![image](https://user-images.githubusercontent.com/79264869/155768952-d539a891-f843-47b5-99a1-995d0e3f2d77.png)
+## Code Grade
+![image](https://user-images.githubusercontent.com/79264869/155769024-26db15a1-8240-4741-8ff7-0276cc53f620.png)
+
+    
 ## Build
 [![CI](https://github.com/Divyah-sys/M1_WorkersActivities_UTIL/actions/workflows/build.yml/badge.svg)](https://github.com/Divyah-sys/M1_WorkersActivities_UTIL/actions/workflows/build.yml)
 
